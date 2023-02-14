@@ -1,2 +1,2 @@
 #!/bin/bash
-tial -n l < iacta >> iacta
+tial -n 1 < iacta >> iacta
